@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/RedUmbrellaG/Desktop/CardProject/Content/CardUI/W_CardHand.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/CardProject/Content/CardUI/BP_CardController.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/CardProject/Content/CardUI/BP_CardDragDrop.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/CardProject/Content/CardUI/BPFL_Cards.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/CardProject/Content/CardUI/W_Card.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/CardProject/Content/CardUI/W_CardHud.uasset",
+				"C:/Users/RedUmbrellaG/Desktop/CardProject/Content/CardUI/BPI_ChangeCardLayout.uasset"
+			]
+		}
+	]
+}
